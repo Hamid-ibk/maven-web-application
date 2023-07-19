@@ -3,5 +3,5 @@ FROM tomcat:8.0.20-jre8
 ## jesus is Lord
 # thanks 
 # for being there for all.
-# great job
+# great job done
 COPY target/*.war /usr/local/tomcat/webapps/maven-web-app.war
